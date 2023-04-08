@@ -1,6 +1,6 @@
 Hello!
 
-- 🔭 🔭 I’m currently looking for a new job in the field of frontend web development. I have experience in building web applications using React and Redux Toolkit.
+- 🔭  I’m currently looking for a new job in the field of frontend web development. I have experience in building web applications using React and Redux Toolkit.
 - 🌱 I’m currently learning fullstack web development and web security.
 - 👯 I’m looking to collaborate on projects where I can contribute to the frontend development using React/Redux or other modern frontend technologies. I am open to working on both personal projects and open-source projects.
 - 🤔 I’m looking for help with finding a high-quality, interesting job that challenges me and allows me to grow my skills. If you know of any opportunities or have any advice, please feel free to reach out!
